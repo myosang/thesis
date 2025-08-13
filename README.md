@@ -19,7 +19,7 @@ It compares **political** (ANES 2020) and **non-political** (Knowledge-Explorati
 │   │   ├── participants/   # survey participants' based analysis
 │   │   ├── topics/         # survey topic based analysis
 └── README.md
-
+```
 ## Pipeline
 1. Preprocessing – lowercasing, stopword removal, lemmatization
 2. Feature Extraction – Bag-of-Words, TF-IDF, Word2Vec, GloVe, DistilBERT
