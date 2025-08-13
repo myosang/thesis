@@ -5,7 +5,7 @@
 This project analyzes how political leanings influence topics emerging from **open-ended survey responses**.  
 It compares **political** (ANES 2020) and **non-political** (Knowledge-Exploration) datasets using:  
 - **Latent Dirichlet Allocation** (LDA) 
-- **Clustering** (K-means, OPTICS, HDBSCAN) with modern embeddings  
+- **Clustering** (K-means, OPTICS, HDBSCAN) with embeddings. 
 
 ## 📂 Project Structure
 ```text
